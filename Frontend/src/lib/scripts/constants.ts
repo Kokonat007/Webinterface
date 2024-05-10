@@ -1,4 +1,4 @@
-export const BASE_PATH = main.mc-vaxx.uk:25661
+export const BASE_PATH = "main.mc-vaxx.uk:25661"
 export const INVITE_URL = import.meta.env.VITE_INVITE_URL || "https://invite.ree6.de"
 
 export function get(path: string) {
